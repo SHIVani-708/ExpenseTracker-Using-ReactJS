@@ -1,7 +1,17 @@
 .expense-item {
-    border: 1px solid #ccc;
+    border: 1px solid #4b4b4b;
     padding: 10px;
     margin: 10px;
     display: flex;
     justify-content: space-around;
+    font-family: ui-serif;
+    font-size: 1.5rem;
+    background-color: #4b4b4b;
+    color: whitesmoke;
+}
+button{
+    font-size: 1.5rem;
+    font-family: ui-serif;
+    background-color: rgb(202, 202, 202);
+    border-radius: 10%;
 }
